@@ -21,4 +21,6 @@ plot(n,x,'b')
 hold on
 plot(n,y,'--r')
 legend('x(n)','y(n)')
+xlabel('x-axis')
+ylabel('y-axis')
 title('x(n) and y(n) graph')
